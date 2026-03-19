@@ -126,9 +126,9 @@ jupyter notebook 01_gee_export.ipynb
 If using this code or data, please cite:
 
 ```
-Limsupaputtikun, K., & Aruninta, A. (2025). 
-Wiang Nong Lom wetland hydrological change analysis [Data set]. 
-Zenodo. https://doi.org/10.5281/zenodo.19057669
+[dataset] Limsupaputtikun, K., Pailoplee, S. & Aruninta, A. (2025). 
+Wiang Nong Lom wetland hydrological change analysis. Zenodo. 
+https://doi.org/10.5281/zenodo.19115866
 ```
 
 ## License
@@ -140,8 +140,3 @@ MIT License — See LICENSE file for details.
 - Satellite data: European Space Agency Copernicus Programme (Sentinel-1, Sentinel-2)
 - Processing platform: Google Earth Engine
 - Change-point detection: Python `ruptures` library (Truong et al., 2020)
-
-## Contact
-
-- **Kantapisit Limsupaputtikun** — Analysis, Software, Visualization
-- **Ariya Aruninta** — Conceptualization, Supervision, Validation
