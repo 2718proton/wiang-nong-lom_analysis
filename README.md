@@ -126,7 +126,7 @@ jupyter notebook 01_gee_export.ipynb
 If using this code or data, please cite:
 
 ```
-[dataset] Limsupaputtikun, K., Pailoplee, S. & Aruninta, A. (2025). 
+[dataset] Limsupaputtikun, K., Pailoplee, S. & Aruninta, A. (2026). 
 Wiang Nong Lom wetland hydrological change analysis. Zenodo. 
 https://doi.org/10.5281/zenodo.19115866
 ```
