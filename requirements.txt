@@ -1,0 +1,32 @@
+# Python dependencies for Wiang Nong Lom wetland analysis
+# Compatible with Python 3.10
+
+# Core data processing
+numpy>=1.24.0
+pandas>=2.0.0
+xarray>=2023.0.0
+
+# Geospatial
+rasterio>=1.3.0
+geemap>=0.30.0
+earthengine-api>=0.1.350
+
+# Scientific computing
+scipy>=1.10.0
+scikit-image>=0.21.0
+
+# Statistical analysis
+ruptures>=1.1.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Date utilities
+python-dateutil>=2.8.0
+
+# NetCDF support (for xarray)
+netCDF4>=1.6.0
+h5netcdf>=1.2.0

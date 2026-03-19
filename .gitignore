@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/*
+
+# Data directories (large files)
+data/raw/sentinel1/*.tif
+data/raw/sentinel2/*.tif
+data/processed/*.nc
+data/processed/*.json
+
+# Outputs
+outputs/*.png
+outputs/*.pdf
+outputs/*.tif
+outputs/*.jpg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
